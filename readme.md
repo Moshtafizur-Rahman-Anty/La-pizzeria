@@ -46,7 +46,7 @@ To set up the La Pizzeria website locally, follow these steps:
 Feel free to explore and modify the code to suit your needs.
 
 ## Author
-[Your Name]
+Moshtafizur
 
 ## License
 This project is licensed under the [MIT License]
